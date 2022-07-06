@@ -1,5 +1,7 @@
 # Dear House-sitter
 
+Thank you to agreeing to look after out lovely cat.
+We hope she behaves herself.
 
 ## Section 1; Emergencies
 
@@ -8,7 +10,7 @@ The fuse box is in the hall by the door.
 
 ### Water flood
 The mains valve is under the sink in the toilet.
-TODO; location
+(Toilet, not the bathroom.)
 
 ### No internet
 
@@ -74,7 +76,7 @@ her sensitive, expensive, cat food. There is loads of it.
 
 
 We feed her 50g in the evening.
-In the TODO;location cupboard in the kitchen you will find
+In the K6 cupboard in the kitchen you will find
 - A white plastic, grey lid, "cereal box" style container, containing dry cat food.
 - A small empty margarine tub.
 - A black electric food scale.
@@ -126,7 +128,7 @@ She would like to be walked.
 In the evening, she can be treated to this.
 Around sundown is best.
 
-If you are willing, then there is a cat harness in TODO:locaiton .
+If you are willing, then there is a cat harness in H1, on the wall in the hall.
 Once you have that on, you can see how far she feels like leading you.
 She is allowed to go up and down the stairs, and into the back garden,
 the key for which is labelled Praha Dver.
@@ -163,17 +165,80 @@ To this end, she has a collection of sticks with string-toys.
 ## Section 3; Where to find it
 
 ### Food
+
+You can find most food in the upper part of K6,
+also in the fridge and freezer of course.
+There is wine and beer on the rack beneath K1.
+
+Please help yourself to whatever you like.
+
+When closing cupboard K3, with the rotating glass shelves,
+please ensure that the rotating shelves have been turned so that the flat bit is closest to you before shutting the door.
+Otherwise the door will not shut properly and this will put pressure on the glass.
+It's a silly design.
+
 ### Cleaning
-### Bed linen
-### Towels
+
+Most cleaning materials and a dustpan and brush are under the kitchen sink.
+Laundry liquid is also there.
+Rags for cleaning are in a box in the hallway cupboard (H2),
+some of them are pretending to be socks, but actually they are
+cleaning rags.
+
+The hoover is the in hallway cupboard in crate H1 near the door.
+
+### Bed linen and towels
+
+Bed linen and towels are under the bed in cloth bags.
+You can also find a spare duvet under the bed in a cardboard box.
+Extra blankets can be found in the chest marked B1.
+
+
 ### Wifi password
+
+It's on the wifi router, it's the one called WLAN network key.
+The one labelled password if for changing settings of the router (please don't do that....).
+
 ### Key to bins/garden
+
+On hooks in the hall by the door.
+
 ### Cat equipment
-carrier, brush, extra food, toys, cat litter + scoop
+
+A cat carrier can be found in the hallway cupboard.
+There is both a backpack (cat prefers this) and a box.
+
+The cat's brush is in the kitchen on the side near the door.
+In the hallway cupboard there is extra food, it's in a crate near the back on the right.
+Cat toys just live all over the house.
+The cat litter + litter scoop live in the toilet on the black shelves.
+
+
 ## Section 4; Household notes
 
 ### Noise
 
-### Rubbish
+Blocks of flats in Prague are governed by some noise regulations.
+Most of them won't be relevant, but please don't run the washing machine after 8pm.
 
-### Recycling
+
+
+### Rubbish and Recycling
+
+There are a set of grey plastic bins near the kitchen door for rubbish and recycling.
+Coloured dots on the lids indicate what they are for.
+
+- The large one with the black dot is rubbish, including food waste.
+- The large one with the blue dot is paper and cardboard recycling.
+- The very small one with the green dot is tetrapack recycling.
+- The medium one with the yellow dot and holes is plastic recycling, including film.
+- The medium one with the red dot is metal recycling.
+- The medium one with the green dot is glass recycling.
+
+Hopefully you won't need to take any of them out.
+If you need to take rubbish out, that goes in the bins by the street door of the flat.
+These are locked, and there is a key for the bins in the hallway on the hooks by the door,
+it has an orange tag.
+Recycling bins are around the city in different locations, the closest to us are by the river
+to the south.
+
